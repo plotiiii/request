@@ -1,0 +1,823 @@
+2020-04-14 20:21:08,066 -- [handle_logging.py-->line:39] - INFO: 123
+2020-04-14 20:28:43,406 -- [handle_logging.py-->line:39] - INFO: 123
+2020-04-14 20:29:31,511 -- [handle_logging.py-->line:39] - INFO: 123
+2020-04-14 20:33:19,406 -- [handle_logging.py-->line:54] - INFO: 123
+2020-04-15 01:20:50,381 -- [test_user_register.py-->line:69] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 01:21:09,953 -- [test_user_register.py-->line:69] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 01:21:35,955 -- [test_user_register.py-->line:65] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 01:22:55,398 -- [test_user_register.py-->line:66] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 01:26:05,564 -- [test_user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 21:00:18,101 -- [test_user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 21:00:58,174 -- [test_user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 21:01:07,381 -- [test_user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 21:15:02,351 -- [test_user_register.py-->line:70] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 21:15:14,147 -- [test_user_register.py-->line:70] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:09:52,524 -- [test_user_register.py-->line:73] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:09:52,778 -- [test_user_register.py-->line:73] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:09:53,026 -- [test_user_register.py-->line:73] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:09:53,361 -- [test_user_register.py-->line:73] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:09:53,650 -- [test_user_register.py-->line:73] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:09:53,863 -- [test_user_register.py-->line:73] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:09:54,127 -- [test_user_register.py-->line:73] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:09:54,460 -- [test_user_register.py-->line:73] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:09:54,682 -- [test_user_register.py-->line:73] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:10:23,232 -- [test_user_register.py-->line:73] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:10:23,549 -- [test_user_register.py-->line:73] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:10:23,919 -- [test_user_register.py-->line:73] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:10:24,239 -- [test_user_register.py-->line:73] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:10:24,623 -- [test_user_register.py-->line:73] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:10:25,043 -- [test_user_register.py-->line:73] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:10:25,521 -- [test_user_register.py-->line:73] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:10:25,893 -- [test_user_register.py-->line:73] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:10:26,476 -- [test_user_register.py-->line:73] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:10:56,041 -- [test_user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:10:56,356 -- [test_user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:10:56,625 -- [test_user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:10:56,984 -- [test_user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:10:57,300 -- [test_user_register.py-->line:72] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:11:00,679 -- [test_user_register.py-->line:72] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:11:01,111 -- [test_user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:11:01,516 -- [test_user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:11:01,875 -- [test_user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:11:17,092 -- [test_user_register.py-->line:71] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:11:17,430 -- [test_user_register.py-->line:71] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:11:17,732 -- [test_user_register.py-->line:71] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:11:18,160 -- [test_user_register.py-->line:71] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:11:18,536 -- [test_user_register.py-->line:71] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:11:18,980 -- [test_user_register.py-->line:71] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:11:19,399 -- [test_user_register.py-->line:71] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:11:19,795 -- [test_user_register.py-->line:71] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:11:20,158 -- [test_user_register.py-->line:71] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:13:57,546 -- [test_user_register.py-->line:73] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:14:15,783 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:14:16,014 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:14:16,320 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:14:16,589 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:14:16,840 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:14:17,109 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:14:17,370 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:14:17,686 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:14:30,845 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:14:31,190 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:14:31,568 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:14:31,907 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:14:32,384 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:14:32,722 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:14:33,141 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:14:33,502 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:18:04,953 -- [test_user_register.py-->line:75] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:18:05,381 -- [test_user_register.py-->line:75] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:18:05,683 -- [test_user_register.py-->line:75] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:18:06,070 -- [test_user_register.py-->line:75] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:18:06,549 -- [test_user_register.py-->line:75] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:20:49,302 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:20:49,616 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:20:49,924 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:20:50,253 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:20:50,563 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:20:50,851 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:20:51,196 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:20:51,534 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:22:13,375 -- [test_user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:22:13,758 -- [test_user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:22:14,149 -- [test_user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:22:14,623 -- [test_user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:22:14,953 -- [test_user_register.py-->line:64] - ERROR: 用例--该邮箱已注册--执行未通过
+2020-04-15 22:22:14,953 -- [test_user_register.py-->line:65] - DEBUG: 创建随机生成的用户名jcol02984和邮箱jcol93310@qq.com
+2020-04-15 22:22:15,104 -- [test_user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:22:15,362 -- [test_user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:22:15,721 -- [test_user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:24:48,209 -- [test_user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:24:48,592 -- [test_user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:24:48,960 -- [test_user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:24:49,266 -- [test_user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:24:49,573 -- [test_user_register.py-->line:72] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:24:49,885 -- [test_user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:24:50,255 -- [test_user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:24:50,575 -- [test_user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:26:05,716 -- [test_user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:26:06,091 -- [test_user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:26:06,456 -- [test_user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:26:06,746 -- [test_user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:26:07,171 -- [test_user_register.py-->line:72] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:26:07,505 -- [test_user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:26:07,831 -- [test_user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:26:08,121 -- [test_user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:28:14,750 -- [test_user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:28:15,018 -- [test_user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:28:15,386 -- [test_user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:28:15,761 -- [test_user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:28:16,073 -- [test_user_register.py-->line:72] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:28:16,339 -- [test_user_register.py-->line:72] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:28:16,645 -- [test_user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:28:16,958 -- [test_user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:28:17,276 -- [test_user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:32:14,408 -- [handle_logging.py-->line:54] - INFO: 123
+2020-04-15 22:38:30,042 -- [run_test.py-->line:11] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:38:30,042 -- [run_test.py-->line:12] - INFO: log.info("---------------测试用例执行完毕-----------------------")
+2020-04-15 22:38:42,574 -- [run_test.py-->line:11] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:38:42,575 -- [run_test.py-->line:16] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 22:48:09,723 -- [run_test.py-->line:17] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:49:22,531 -- [run_test.py-->line:19] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:49:37,968 -- [run_test.py-->line:19] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:49:54,161 -- [run_test.py-->line:18] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:51:57,433 -- [run_test.py-->line:18] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:52:12,497 -- [run_test.py-->line:18] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:52:31,664 -- [run_test.py-->line:18] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:52:33,109 -- [test_user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:52:33,109 -- [test_user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:52:33,482 -- [test_user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:52:33,482 -- [test_user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:52:33,806 -- [test_user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:52:33,806 -- [test_user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:52:34,139 -- [test_user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:52:34,139 -- [test_user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:52:34,421 -- [test_user_register.py-->line:72] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:52:34,421 -- [test_user_register.py-->line:72] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:52:34,730 -- [test_user_register.py-->line:72] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:52:34,730 -- [test_user_register.py-->line:72] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:52:35,041 -- [test_user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:52:35,041 -- [test_user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:52:35,381 -- [test_user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:52:35,381 -- [test_user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:52:35,735 -- [test_user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:52:35,735 -- [test_user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:52:35,936 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 22:52:35,936 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 22:55:55,636 -- [run_test.py-->line:18] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:55:57,208 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:55:57,208 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:55:57,531 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:55:57,531 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:55:58,024 -- [test_user_register.py-->line:66] - ERROR: 用例--用户名大于20位--执行未通过
+2020-04-15 22:55:58,024 -- [test_user_register.py-->line:66] - ERROR: 用例--用户名大于20位--执行未通过
+2020-04-15 22:55:58,025 -- [test_user_register.py-->line:67] - DEBUG: 创建随机生成的用户名jcol26890和邮箱jcol35717@qq.com
+2020-04-15 22:55:58,025 -- [test_user_register.py-->line:67] - DEBUG: 创建随机生成的用户名jcol26890和邮箱jcol35717@qq.com
+2020-04-15 22:55:58,153 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:55:58,153 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:55:58,599 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:55:58,599 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:55:58,999 -- [test_user_register.py-->line:74] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:55:58,999 -- [test_user_register.py-->line:74] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:55:59,324 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:55:59,324 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:55:59,782 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:55:59,782 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:56:00,198 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:56:00,198 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:56:00,394 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 22:56:00,394 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 22:58:28,491 -- [run_test.py-->line:18] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 22:58:30,186 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:58:30,186 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 22:58:30,736 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:58:30,736 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 22:58:31,084 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:58:31,084 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 22:58:31,470 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:58:31,470 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 22:58:31,853 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:58:31,853 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 22:58:32,219 -- [test_user_register.py-->line:74] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:58:32,219 -- [test_user_register.py-->line:74] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 22:58:32,509 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:58:32,509 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 22:58:32,795 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:58:32,795 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 22:58:33,140 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:58:33,140 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 22:58:33,354 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 22:58:33,354 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 23:00:01,020 -- [run_test.py-->line:18] - INFO: ---------------开始执行测试用例-----------------------
+2020-04-15 23:00:02,557 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 23:00:02,557 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 23:00:02,919 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 23:00:02,919 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 23:00:03,205 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 23:00:03,205 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 23:00:03,572 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 23:00:03,572 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 23:00:03,909 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 23:00:03,909 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 23:00:04,354 -- [test_user_register.py-->line:74] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 23:00:04,354 -- [test_user_register.py-->line:74] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 23:00:04,670 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 23:00:04,670 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 23:00:05,022 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 23:00:05,022 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 23:00:05,334 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 23:00:05,334 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 23:00:05,538 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 23:00:05,538 -- [run_test.py-->line:32] - INFO: ---------------测试用例执行完毕-----------------------
+2020-04-15 23:01:36,745 -- [test_user_register.py-->line:74] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-15 23:01:37,150 -- [test_user_register.py-->line:74] - INFO: 用例--用户名小于6位--执行通过
+2020-04-15 23:01:37,609 -- [test_user_register.py-->line:74] - INFO: 用例--用户名大于20位--执行通过
+2020-04-15 23:01:40,530 -- [test_user_register.py-->line:74] - INFO: 用例--该用户名已注册--执行通过
+2020-04-15 23:01:40,887 -- [test_user_register.py-->line:74] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-15 23:01:41,401 -- [test_user_register.py-->line:74] - INFO: 用例--用户名不合法--执行通过
+2020-04-15 23:01:41,766 -- [test_user_register.py-->line:74] - INFO: 用例--两次密码不一致--执行通过
+2020-04-15 23:01:42,171 -- [test_user_register.py-->line:74] - INFO: 用例--密码小于6位--执行通过
+2020-04-15 23:01:42,609 -- [test_user_register.py-->line:74] - INFO: 用例--密码大于20位--执行通过
+2020-04-15 23:46:08,599 -- [test_user_login.py-->line:63] - INFO: 用例--登录成功--执行通过
+2020-04-15 23:46:25,737 -- [test_user_login.py-->line:63] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:06:58,588 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:07:08,437 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:07:45,737 -- [test_01user_register.py-->line:70] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 00:07:45,987 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 00:07:46,157 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 00:07:46,397 -- [test_01user_register.py-->line:70] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 00:07:46,583 -- [test_01user_register.py-->line:70] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 00:07:46,760 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 00:07:46,987 -- [test_01user_register.py-->line:70] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 00:07:47,177 -- [test_01user_register.py-->line:70] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 00:07:47,358 -- [test_01user_register.py-->line:70] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 00:20:42,918 -- [test_01user_register.py-->line:70] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 00:20:43,033 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 00:20:43,181 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 00:20:43,330 -- [test_01user_register.py-->line:70] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 00:20:43,481 -- [test_01user_register.py-->line:70] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 00:20:43,668 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 00:20:43,802 -- [test_01user_register.py-->line:70] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 00:20:43,932 -- [test_01user_register.py-->line:70] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 00:20:44,121 -- [test_01user_register.py-->line:70] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 00:20:44,284 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:20:53,473 -- [test_01user_register.py-->line:70] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 00:20:53,693 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 00:20:53,852 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 00:20:54,054 -- [test_01user_register.py-->line:70] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 00:20:54,255 -- [test_01user_register.py-->line:70] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 00:20:54,471 -- [test_01user_register.py-->line:70] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 00:20:54,708 -- [test_01user_register.py-->line:70] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 00:20:54,865 -- [test_01user_register.py-->line:70] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 00:20:55,041 -- [test_01user_register.py-->line:70] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 00:20:55,235 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:25:07,521 -- [test_01user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 00:25:07,713 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 00:25:07,862 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 00:25:08,101 -- [test_01user_register.py-->line:68] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 00:25:08,260 -- [test_01user_register.py-->line:68] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 00:25:08,426 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 00:25:08,630 -- [test_01user_register.py-->line:68] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 00:25:08,815 -- [test_01user_register.py-->line:68] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 00:25:09,032 -- [test_01user_register.py-->line:68] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 00:31:57,886 -- [test_04projects.py-->line:68] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:32:10,413 -- [test_04projects.py-->line:68] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:32:21,801 -- [test_01user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 00:32:21,966 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 00:32:22,158 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 00:32:22,356 -- [test_01user_register.py-->line:68] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 00:32:22,504 -- [test_01user_register.py-->line:68] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 00:32:22,659 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 00:32:22,854 -- [test_01user_register.py-->line:68] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 00:32:23,030 -- [test_01user_register.py-->line:68] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 00:32:23,231 -- [test_01user_register.py-->line:68] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 00:32:23,455 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:32:23,716 -- [test_04projects.py-->line:68] - INFO: 用例--登录成功--执行通过
+2020-04-16 00:32:43,025 -- [test_04projects.py-->line:66] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:27:40,990 -- [test_05interface.py-->line:75] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:27:46,561 -- [test_05interface.py-->line:75] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:30:43,674 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:30:53,399 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:31:08,502 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:33:14,304 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:33:24,129 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:34:07,729 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:34:34,715 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:35:22,281 -- [test_05interface.py-->line:77] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:35:34,749 -- [test_01user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 01:35:34,929 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 01:35:35,076 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 01:35:35,227 -- [test_01user_register.py-->line:68] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 01:35:35,406 -- [test_01user_register.py-->line:68] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 01:35:35,599 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 01:35:35,773 -- [test_01user_register.py-->line:68] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 01:35:35,974 -- [test_01user_register.py-->line:68] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 01:35:36,190 -- [test_01user_register.py-->line:68] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 01:35:36,408 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:35:36,730 -- [test_04projects.py-->line:64] - INFO: 用例--登录成功--执行通过
+2020-04-16 01:35:37,054 -- [test_05interface.py-->line:77] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:10:22,872 -- [test_06testcase.py-->line:82] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:11:01,369 -- [test_06testcase.py-->line:81] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:11:20,611 -- [test_06testcase.py-->line:81] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:11:53,292 -- [test_06testcase.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:12:12,702 -- [test_06testcase.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:13:53,469 -- [test_06testcase.py-->line:71] - ERROR: 用例--登录成功--执行未通过
+2020-04-16 20:13:53,469 -- [test_06testcase.py-->line:72] - DEBUG: 预期结果：{'id': 8, 'name': 'jcool09988', 'interface': {'name': '注册接口_自动化测试平台项目', 'project': '自动化测试平台项目'}, 'author': '可优'}
+2020-04-16 20:13:53,469 -- [test_06testcase.py-->line:73] - DEBUG: 实际结果：{'id': 1014, 'name': 'jcool09988', 'interface': {'name': '注册接口_自动化测试平台项目', 'project': '自动化测试平台项目'}, 'author': '可优'}
+2020-04-16 20:13:53,469 -- [test_06testcase.py-->line:74] - ERROR:  :: 1014 != <class 'int'>
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '1014' != <class 'int'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_06testcase.py", line 61, in test_recharge
+    self.assertEqual(response_id, sql_id)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1014 != <class 'int'>
+2020-04-16 20:14:10,798 -- [test_06testcase.py-->line:71] - ERROR: 用例--登录成功--执行未通过
+2020-04-16 20:14:10,799 -- [test_06testcase.py-->line:72] - DEBUG: 预期结果：{'id': 8, 'name': 'jcool11279', 'interface': {'name': '注册接口_自动化测试平台项目', 'project': '自动化测试平台项目'}, 'author': '可优'}
+2020-04-16 20:14:10,799 -- [test_06testcase.py-->line:73] - DEBUG: 实际结果：{'id': 1015, 'name': 'jcool11279', 'interface': {'name': '注册接口_自动化测试平台项目', 'project': '自动化测试平台项目'}, 'author': '可优'}
+2020-04-16 20:14:10,799 -- [test_06testcase.py-->line:74] - ERROR:  :: 1015 != <class 'int'>
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '1015' != <class 'int'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_06testcase.py", line 61, in test_recharge
+    self.assertEqual(response_id, sql_id)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1015 != <class 'int'>
+2020-04-16 20:14:31,917 -- [test_06testcase.py-->line:71] - ERROR: 用例--登录成功--执行未通过
+2020-04-16 20:14:31,917 -- [test_06testcase.py-->line:72] - DEBUG: 预期结果：{'id': 8, 'name': 'jcool65285', 'interface': {'name': '注册接口_自动化测试平台项目', 'project': '自动化测试平台项目'}, 'author': '可优'}
+2020-04-16 20:14:31,917 -- [test_06testcase.py-->line:73] - DEBUG: 实际结果：{'id': 1016, 'name': 'jcool65285', 'interface': {'name': '注册接口_自动化测试平台项目', 'project': '自动化测试平台项目'}, 'author': '可优'}
+2020-04-16 20:14:31,918 -- [test_06testcase.py-->line:74] - ERROR:  :: 1016 != <class 'int'>
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: '1016' != <class 'int'>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_06testcase.py", line 61, in test_recharge
+    self.assertEqual(response_id, sql_id)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1016 != <class 'int'>
+2020-04-16 20:15:41,627 -- [test_06testcase.py-->line:79] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:17:03,652 -- [test_06testcase.py-->line:81] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:17:19,459 -- [test_06testcase.py-->line:81] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:18:27,505 -- [test_06testcase.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:19:00,404 -- [test_06testcase.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:19:02,882 -- [test_06testcase.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:19:18,047 -- [test_06testcase.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:19:30,093 -- [test_05interface.py-->line:77] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:19:55,490 -- [test_05interface.py-->line:77] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:20:58,072 -- [test_05interface.py-->line:78] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:21:27,376 -- [test_05interface.py-->line:79] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:22:00,479 -- [test_05interface.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:22:10,903 -- [test_05interface.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:22:16,048 -- [test_05interface.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:23:31,468 -- [test_05interface.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:23:52,075 -- [test_05interface.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:24:45,160 -- [test_05interface.py-->line:77] - INFO: 用例--登录成功--执行通过
+2020-04-16 20:49:08,962 -- [test_07user_count.py-->line:71] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:49:09,087 -- [test_07user_count.py-->line:71] - INFO: 用例--校验失败--执行通过
+2020-04-16 20:49:19,818 -- [test_07user_count.py-->line:71] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:49:19,973 -- [test_07user_count.py-->line:71] - INFO: 用例--校验失败--执行通过
+2020-04-16 20:50:44,454 -- [test_07user_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:50:44,683 -- [test_07user_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 20:55:44,752 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:55:55,693 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:56:57,919 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:56:58,050 -- [test_08email_count.py-->line:62] - ERROR: 用例--校验失败--执行未通过
+2020-04-16 20:56:58,050 -- [test_08email_count.py-->line:63] - DEBUG: 预期结果：{'email': 'jcol83707@qq.com', 'count': 1}
+2020-04-16 20:56:58,050 -- [test_08email_count.py-->line:64] - DEBUG: 实际结果：{'email': 'jcol83707@qq.com', 'count': 0}
+2020-04-16 20:56:58,050 -- [test_08email_count.py-->line:65] - ERROR:  :: 1 != 0
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_08email_count.py", line 56, in test_testcases
+    self.assertEqual(expected['count'], res['count'])
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+2020-04-16 20:57:15,266 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:57:15,437 -- [test_08email_count.py-->line:62] - ERROR: 用例--校验失败--执行未通过
+2020-04-16 20:57:15,438 -- [test_08email_count.py-->line:63] - DEBUG: 预期结果：{'email': 'jcol05246@qq.com', 'count': 1}
+2020-04-16 20:57:15,438 -- [test_08email_count.py-->line:64] - DEBUG: 实际结果：{'email': 'jcol05246@qq.com', 'count': 0}
+2020-04-16 20:57:15,438 -- [test_08email_count.py-->line:65] - ERROR:  :: 1 != 0
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_08email_count.py", line 56, in test_testcases
+    self.assertEqual(expected['count'], res['count'])
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+2020-04-16 20:59:04,672 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:59:04,788 -- [test_08email_count.py-->line:62] - ERROR: 用例--校验失败--执行未通过
+2020-04-16 20:59:04,788 -- [test_08email_count.py-->line:63] - DEBUG: 预期结果：{'email': 'jcol08325@qq.com', 'count': 1}
+2020-04-16 20:59:04,788 -- [test_08email_count.py-->line:64] - DEBUG: 实际结果：{'email': 'jcol08325@qq.com', 'count': 0}
+2020-04-16 20:59:04,788 -- [test_08email_count.py-->line:65] - ERROR:  :: 1 != 0
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_08email_count.py", line 56, in test_testcases
+    self.assertEqual(expected['count'], res['count'])
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+2020-04-16 20:59:18,795 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:59:18,968 -- [test_08email_count.py-->line:62] - ERROR: 用例--校验失败--执行未通过
+2020-04-16 20:59:18,969 -- [test_08email_count.py-->line:63] - DEBUG: 预期结果：{'email': 'jcol29867@qq.com', 'count': 1}
+2020-04-16 20:59:18,969 -- [test_08email_count.py-->line:64] - DEBUG: 实际结果：{'email': 'jcol29867@qq.com', 'count': 0}
+2020-04-16 20:59:18,969 -- [test_08email_count.py-->line:65] - ERROR:  :: 1 != 0
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_08email_count.py", line 56, in test_testcases
+    self.assertEqual(expected['count'], res['count'])
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+2020-04-16 20:59:32,732 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 20:59:32,897 -- [test_08email_count.py-->line:62] - ERROR: 用例--校验失败--执行未通过
+2020-04-16 20:59:32,897 -- [test_08email_count.py-->line:63] - DEBUG: 预期结果：{'email': 'jcol09414@qq.com', 'count': 1}
+2020-04-16 20:59:32,898 -- [test_08email_count.py-->line:64] - DEBUG: 实际结果：{'email': 'jcol09414@qq.com', 'count': 0}
+2020-04-16 20:59:32,898 -- [test_08email_count.py-->line:65] - ERROR:  :: 1 != 0
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_08email_count.py", line 56, in test_testcases
+    self.assertEqual(expected['count'], res['count'])
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+2020-04-16 21:00:11,675 -- [test_08email_count.py-->line:62] - ERROR: 用例--校验成功--执行未通过
+2020-04-16 21:00:11,675 -- [test_08email_count.py-->line:63] - DEBUG: 预期结果：{'email': 'keyou111@qq.com', 'count': 1}
+2020-04-16 21:00:11,676 -- [test_08email_count.py-->line:64] - DEBUG: 实际结果：{'email': 'keyou111@qq.com', 'count': 0}
+2020-04-16 21:00:11,676 -- [test_08email_count.py-->line:65] - ERROR:  :: 1 != 0
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_08email_count.py", line 56, in test_testcases
+    self.assertEqual(expected['count'], res['count'])
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+2020-04-16 21:00:11,899 -- [test_08email_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 21:00:43,771 -- [test_08email_count.py-->line:62] - ERROR: 用例--校验成功--执行未通过
+2020-04-16 21:00:43,771 -- [test_08email_count.py-->line:63] - DEBUG: 预期结果：{'email': 'keyou111@qq.com', 'count': 1}
+2020-04-16 21:00:43,772 -- [test_08email_count.py-->line:64] - DEBUG: 实际结果：{'email': 'keyou111@qq.com', 'count': 0}
+2020-04-16 21:00:43,772 -- [test_08email_count.py-->line:65] - ERROR:  :: 1 != 0
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: 1 != 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_08email_count.py", line 56, in test_testcases
+    self.assertEqual(expected['count'], res['count'])
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: 1 != 0
+2020-04-16 21:00:43,964 -- [test_08email_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 21:05:05,359 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 21:05:05,528 -- [test_08email_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 21:05:17,514 -- [test_01user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 21:05:17,736 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 21:05:17,963 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 21:05:18,196 -- [test_01user_register.py-->line:68] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 21:05:18,400 -- [test_01user_register.py-->line:68] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 21:05:18,598 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 21:05:18,905 -- [test_01user_register.py-->line:68] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 21:05:19,105 -- [test_01user_register.py-->line:68] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 21:05:19,328 -- [test_01user_register.py-->line:68] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 21:05:19,539 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:05:19,856 -- [test_04projects.py-->line:64] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:05:20,245 -- [test_05interface.py-->line:77] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:05:20,612 -- [test_06testcase.py-->line:80] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:05:20,854 -- [test_07user_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 21:05:21,021 -- [test_07user_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 21:05:21,306 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 21:05:21,481 -- [test_08email_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 21:22:20,436 -- [test_06testcase.py-->line:87] - INFO: 用例--用例成功--执行通过
+2020-04-16 21:22:20,505 -- [test_06testcase.py-->line:79] - ERROR: 用例--用例名称已存在--执行未通过
+2020-04-16 21:22:20,506 -- [test_06testcase.py-->line:80] - DEBUG: 预期结果：{'name': ['具有 用例名称 的 用例信息 已存在。']}
+2020-04-16 21:22:20,506 -- [test_06testcase.py-->line:81] - DEBUG: 实际结果：{'name': ['具有 用例名称 的 用例信息 已存在。']}
+2020-04-16 21:22:20,506 -- [test_06testcase.py-->line:82] - ERROR:  :: <Response [400]> != {'name': ['具有 用例名称 的 用例信息 已存在。']}
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: <Response [400]> != {'name': ['具有 用例名称 的 用例信息 已存在。']}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_06testcase.py", line 74, in test_testcases
+    self.assertEqual(response, expected)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: <Response [400]> != {'name': ['具有 用例名称 的 用例信息 已存在。']}
+2020-04-16 21:22:20,659 -- [test_06testcase.py-->line:79] - ERROR: 用例--登录成功--执行未通过
+2020-04-16 21:22:20,659 -- [test_06testcase.py-->line:80] - DEBUG: 预期结果：{'interface': {'non_field_errors': ['项目和接口信息不对应!']}}
+2020-04-16 21:22:20,659 -- [test_06testcase.py-->line:81] - DEBUG: 实际结果：{'interface': {'non_field_errors': ['项目和接口信息不对应!']}}
+2020-04-16 21:22:20,659 -- [test_06testcase.py-->line:82] - ERROR:  :: <Response [400]> != {'interface': {'non_field_errors': ['项目和接口信息不对应!']}}
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 845, in _baseAssertEqual
+    raise self.failureException(msg)
+AssertionError: <Response [400]> != {'interface': {'non_field_errors': ['项目和接口信息不对应!']}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_06testcase.py", line 74, in test_testcases
+    self.assertEqual(response, expected)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: <Response [400]> != {'interface': {'non_field_errors': ['项目和接口信息不对应!']}}
+2020-04-16 21:24:15,315 -- [test_06testcase.py-->line:87] - INFO: 用例--用例成功--执行通过
+2020-04-16 21:24:15,357 -- [test_06testcase.py-->line:87] - INFO: 用例--用例名称已存在--执行通过
+2020-04-16 21:24:15,443 -- [test_06testcase.py-->line:87] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:31:25,084 -- [test_06testcase.py-->line:87] - INFO: 用例--用例成功--执行通过
+2020-04-16 21:31:25,215 -- [test_06testcase.py-->line:87] - INFO: 用例--用例名称已存在--执行通过
+2020-04-16 21:31:25,420 -- [test_06testcase.py-->line:87] - INFO: 用例--接口名称不对应--执行通过
+2020-04-16 21:31:45,613 -- [test_02user_login.py-->line:62] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:31:45,769 -- [test_02user_login.py-->line:62] - INFO: 用例--账号为空--执行通过
+2020-04-16 21:33:04,463 -- [test_02user_login.py-->line:54] - ERROR: 用例--登录成功--执行未通过
+2020-04-16 21:33:04,464 -- [test_02user_login.py-->line:55] - DEBUG: 预期结果：{'username': 'qq135789QQ'}
+2020-04-16 21:33:04,464 -- [test_02user_login.py-->line:56] - DEBUG: 实际结果：{'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxOTM3LCJ1c2VybmFtZSI6InFxMTM1Nzg5UVEiLCJleHAiOjE1ODcxMzAzODYsImVtYWlsIjoibGpjMTIzNDE1QDE2My5jb20ifQ.OYDPqyz36oj4gnrXyM6GWDRwE5yB9aItigFWsOVxkO8', 'user_id': 1937, 'username': 'qq135789QQ'}
+2020-04-16 21:33:04,464 -- [test_02user_login.py-->line:57] - ERROR:  :: {'username': 'qq135789QQ'} != {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxOTM3LCJ1c2VybmFtZSI6InFxMTM1Nzg5UVEiLCJleHAiOjE1ODcxMzAzODYsImVtYWlsIjoibGpjMTIzNDE1QDE2My5jb20ifQ.OYDPqyz36oj4gnrXyM6GWDRwE5yB9aItigFWsOVxkO8',
+ 'user_id': 1937,
+ 'username': 'qq135789QQ'}
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 1151, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: {'username': 'qq135789QQ'} != {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1[203 chars]9QQ'}
++ {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxOTM3LCJ1c2VybmFtZSI6InFxMTM1Nzg5UVEiLCJleHAiOjE1ODcxMzAzODYsImVtYWlsIjoibGpjMTIzNDE1QDE2My5jb20ifQ.OYDPqyz36oj4gnrXyM6GWDRwE5yB9aItigFWsOVxkO8',
++  'user_id': 1937,
+- {'username': 'qq135789QQ'}
+? ^
+
++  'username': 'qq135789QQ'}
+? ^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_02user_login.py", line 51, in test_login
+    self.assertEqual(expected, res)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: {'username': 'qq135789QQ'} != {'token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxOTM3LCJ1c2VybmFtZSI6InFxMTM1Nzg5UVEiLCJleHAiOjE1ODcxMzAzODYsImVtYWlsIjoibGpjMTIzNDE1QDE2My5jb20ifQ.OYDPqyz36oj4gnrXyM6GWDRwE5yB9aItigFWsOVxkO8',
+ 'user_id': 1937,
+ 'username': 'qq135789QQ'}
+2020-04-16 21:33:04,509 -- [test_02user_login.py-->line:54] - ERROR: 用例--密码为空--执行未通过
+2020-04-16 21:33:04,509 -- [test_02user_login.py-->line:55] - DEBUG: 预期结果：{'password': ['该字段不能为空。']}
+2020-04-16 21:33:04,509 -- [test_02user_login.py-->line:56] - DEBUG: 实际结果：{'password': ['该字段是必填项。']}
+2020-04-16 21:33:04,509 -- [test_02user_login.py-->line:57] - ERROR:  :: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 1151, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+- {'password': ['该字段不能为空。']}
+?                   ^^^^
+
++ {'password': ['该字段是必填项。']}
+?                   ^^^^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_02user_login.py", line 51, in test_login
+    self.assertEqual(expected, res)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+2020-04-16 21:33:04,534 -- [test_02user_login.py-->line:62] - INFO: 用例--账号为空--执行通过
+2020-04-16 21:33:04,682 -- [test_02user_login.py-->line:62] - INFO: 用例--输入错误--执行通过
+2020-04-16 21:35:46,906 -- [test_02user_login.py-->line:65] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:35:46,949 -- [test_02user_login.py-->line:57] - ERROR: 用例--密码为空--执行未通过
+2020-04-16 21:35:46,949 -- [test_02user_login.py-->line:58] - DEBUG: 预期结果：{'password': ['该字段不能为空。']}
+2020-04-16 21:35:46,949 -- [test_02user_login.py-->line:59] - DEBUG: 实际结果：{'password': ['该字段是必填项。']}
+2020-04-16 21:35:46,950 -- [test_02user_login.py-->line:60] - ERROR:  :: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 1151, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+- {'password': ['该字段不能为空。']}
+?                   ^^^^
+
++ {'password': ['该字段是必填项。']}
+?                   ^^^^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_02user_login.py", line 54, in test_login
+    self.assertEqual(expected,res)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+2020-04-16 21:35:46,983 -- [test_02user_login.py-->line:65] - INFO: 用例--账号为空--执行通过
+2020-04-16 21:35:47,158 -- [test_02user_login.py-->line:65] - INFO: 用例--输入错误--执行通过
+2020-04-16 21:36:04,057 -- [test_02user_login.py-->line:65] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:36:04,082 -- [test_02user_login.py-->line:57] - ERROR: 用例--密码为空--执行未通过
+2020-04-16 21:36:04,082 -- [test_02user_login.py-->line:58] - DEBUG: 预期结果：{'password': ['该字段不能为空。']}
+2020-04-16 21:36:04,082 -- [test_02user_login.py-->line:59] - DEBUG: 实际结果：{'password': ['该字段是必填项。']}
+2020-04-16 21:36:04,082 -- [test_02user_login.py-->line:60] - ERROR:  :: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+Traceback (most recent call last):
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 32, in _patched_equals
+    old(self, first, second, msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 852, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 1151, in assertDictEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "C:\Program Files\Python37\lib\unittest\case.py", line 693, in fail
+    raise self.failureException(msg)
+AssertionError: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+- {'password': ['该字段不能为空。']}
+?                   ^^^^
+
++ {'password': ['该字段是必填项。']}
+?                   ^^^^
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\python\jiekouceshi\jiekoucs\testcase\test_02user_login.py", line 54, in test_login
+    self.assertEqual(expected,res)
+  File "D:\Pycharm\PyCharm 2019.1.2\helpers\pycharm\teamcity\diff_tools.py", line 38, in _patched_equals
+    raise error
+teamcity.diff_tools.EqualsAssertionError:  :: {'password': ['该字段不能为空。']} != {'password': ['该字段是必填项。']}
+2020-04-16 21:36:04,130 -- [test_02user_login.py-->line:65] - INFO: 用例--账号为空--执行通过
+2020-04-16 21:36:04,297 -- [test_02user_login.py-->line:65] - INFO: 用例--输入错误--执行通过
+2020-04-16 21:36:32,006 -- [test_02user_login.py-->line:65] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:36:32,034 -- [test_02user_login.py-->line:65] - INFO: 用例--密码为空--执行通过
+2020-04-16 21:36:32,064 -- [test_02user_login.py-->line:65] - INFO: 用例--账号为空--执行通过
+2020-04-16 21:36:32,218 -- [test_02user_login.py-->line:65] - INFO: 用例--输入错误--执行通过
+2020-04-16 21:46:03,376 -- [test_04projects.py-->line:69] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:46:03,439 -- [test_04projects.py-->line:69] - INFO: 用例--名字已存在--执行通过
+2020-04-16 21:46:03,498 -- [test_04projects.py-->line:69] - INFO: 用例--名字为空--执行通过
+2020-04-16 21:46:09,378 -- [test_04projects.py-->line:69] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:46:09,414 -- [test_04projects.py-->line:69] - INFO: 用例--名字已存在--执行通过
+2020-04-16 21:46:09,447 -- [test_04projects.py-->line:69] - INFO: 用例--名字为空--执行通过
+2020-04-16 21:54:36,316 -- [test_05interface.py-->line:82] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:54:36,381 -- [test_05interface.py-->line:82] - INFO: 用例--名字已存在--执行通过
+2020-04-16 21:54:36,451 -- [test_05interface.py-->line:82] - INFO: 用例--名字为空--执行通过
+2020-04-16 21:54:44,685 -- [test_05interface.py-->line:82] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:54:44,726 -- [test_05interface.py-->line:82] - INFO: 用例--名字已存在--执行通过
+2020-04-16 21:54:44,779 -- [test_05interface.py-->line:82] - INFO: 用例--名字为空--执行通过
+2020-04-16 21:55:06,306 -- [test_01user_register.py-->line:68] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 21:55:06,543 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 21:55:06,814 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 21:55:07,025 -- [test_01user_register.py-->line:68] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 21:55:07,263 -- [test_01user_register.py-->line:68] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 21:55:07,507 -- [test_01user_register.py-->line:68] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 21:55:07,744 -- [test_01user_register.py-->line:68] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 21:55:07,944 -- [test_01user_register.py-->line:68] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 21:55:08,147 -- [test_01user_register.py-->line:68] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 21:55:08,399 -- [test_02user_login.py-->line:65] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:55:08,524 -- [test_02user_login.py-->line:65] - INFO: 用例--密码为空--执行通过
+2020-04-16 21:55:08,633 -- [test_02user_login.py-->line:65] - INFO: 用例--账号为空--执行通过
+2020-04-16 21:55:08,862 -- [test_02user_login.py-->line:65] - INFO: 用例--输入错误--执行通过
+2020-04-16 21:55:09,194 -- [test_04projects.py-->line:69] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:55:09,357 -- [test_04projects.py-->line:69] - INFO: 用例--名字已存在--执行通过
+2020-04-16 21:55:09,458 -- [test_04projects.py-->line:69] - INFO: 用例--名字为空--执行通过
+2020-04-16 21:55:09,809 -- [test_05interface.py-->line:82] - INFO: 用例--登录成功--执行通过
+2020-04-16 21:55:09,946 -- [test_05interface.py-->line:82] - INFO: 用例--名字已存在--执行通过
+2020-04-16 21:55:10,043 -- [test_05interface.py-->line:82] - INFO: 用例--名字为空--执行通过
+2020-04-16 21:55:10,441 -- [test_06testcase.py-->line:87] - INFO: 用例--用例成功--执行通过
+2020-04-16 21:55:10,575 -- [test_06testcase.py-->line:87] - INFO: 用例--用例名称已存在--执行通过
+2020-04-16 21:55:10,717 -- [test_06testcase.py-->line:87] - INFO: 用例--接口名称不对应--执行通过
+2020-04-16 21:55:10,983 -- [test_07user_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 21:55:11,183 -- [test_07user_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 21:55:11,478 -- [test_08email_count.py-->line:70] - INFO: 用例--校验成功--执行通过
+2020-04-16 21:55:11,661 -- [test_08email_count.py-->line:70] - INFO: 用例--校验失败--执行通过
+2020-04-16 22:04:35,794 -- [test_01user_register.py-->line:73] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 22:04:36,007 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 22:04:36,191 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 22:04:36,384 -- [test_01user_register.py-->line:73] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 22:04:36,599 -- [test_01user_register.py-->line:73] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 22:04:36,792 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 22:04:36,984 -- [test_01user_register.py-->line:73] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 22:04:37,225 -- [test_01user_register.py-->line:73] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 22:04:37,382 -- [test_01user_register.py-->line:73] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 22:05:51,805 -- [test_01user_register.py-->line:72] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 22:05:52,010 -- [test_01user_register.py-->line:72] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 22:05:52,232 -- [test_01user_register.py-->line:72] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 22:05:52,416 -- [test_01user_register.py-->line:72] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 22:05:52,581 -- [test_01user_register.py-->line:72] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 22:05:52,792 -- [test_01user_register.py-->line:72] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 22:05:52,980 -- [test_01user_register.py-->line:72] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 22:05:53,157 -- [test_01user_register.py-->line:72] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 22:05:53,364 -- [test_01user_register.py-->line:72] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 22:07:00,157 -- [test_01user_register.py-->line:73] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 22:07:00,346 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 22:07:00,526 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 22:07:00,678 -- [test_01user_register.py-->line:73] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 22:07:00,858 -- [test_01user_register.py-->line:73] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 22:07:01,096 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 22:07:01,264 -- [test_01user_register.py-->line:73] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 22:07:01,473 -- [test_01user_register.py-->line:73] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 22:07:01,690 -- [test_01user_register.py-->line:73] - INFO: 用例--密码大于20位--执行通过
+2020-04-16 22:07:19,926 -- [test_01user_register.py-->line:73] - INFO: 用例--注册成功-带注册名--执行通过
+2020-04-16 22:07:20,136 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名小于6位--执行通过
+2020-04-16 22:07:20,315 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名大于20位--执行通过
+2020-04-16 22:07:20,524 -- [test_01user_register.py-->line:73] - INFO: 用例--该用户名已注册--执行通过
+2020-04-16 22:07:20,721 -- [test_01user_register.py-->line:73] - INFO: 用例--该邮箱已注册--执行通过
+2020-04-16 22:07:20,946 -- [test_01user_register.py-->line:73] - INFO: 用例--用户名不合法--执行通过
+2020-04-16 22:07:21,123 -- [test_01user_register.py-->line:73] - INFO: 用例--两次密码不一致--执行通过
+2020-04-16 22:07:21,263 -- [test_01user_register.py-->line:73] - INFO: 用例--密码小于6位--执行通过
+2020-04-16 22:07:21,414 -- [test_01user_register.py-->line:73] - INFO: 用例--密码大于20位--执行通过
